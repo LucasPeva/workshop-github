@@ -4,7 +4,7 @@ Este é o repositório usado para o workshop de Git e Github, apresentado durant
 
 ## Estrutura do repositório
 
-* `src` - Contém uma página simples, hosteada no GitHub Pages, para demonstração de como trabalhar com Git.
+* `docs` - Contém uma página simples, hosteada no GitHub Pages, para demonstração de como trabalhar com Git.
 
 * `slides` - Contém os slides mostrados durante o workshop
 
