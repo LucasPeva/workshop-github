@@ -17,3 +17,8 @@ main {
     font-size: +40px;
     text-align: center;
 }
+
+.botaoTeste {
+    border-radius: 5px;
+    border-color: yellow;
+}
