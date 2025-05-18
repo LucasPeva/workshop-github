@@ -63,6 +63,13 @@ main {
     margin-bottom: 15px;
 }
 
+.intro img {
+    display: block;
+    margin: 0 auto 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
 section h3 {
     color: #2980b9;
     margin-top: 20px;
